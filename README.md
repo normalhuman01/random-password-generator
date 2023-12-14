@@ -1,5 +1,5 @@
 #  RANDOM PASSWORD GENERATOR 
 
-  Gerando uma senha aleatória utilizando HTML, CSS e JS.
+  Generating a random password using HTML, CSS and JS.
 
 [![PASSWORD](https://i.imgur.com/aDfpExZ.jpg "IMIGUR")](https://lucasrmagalhaes.github.io/randomPasswordGenerator/ "github.io")
